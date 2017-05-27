@@ -1,35 +1,21 @@
 ## Добро пожаловать на сайт Бота Антошки.
 
-[Официальный паблик нашего Бота] (https://vk.com/antoshka_botov)
+Официальный паблик нашего Бота - vk.com/antoshka_botov
 
-### Markdown
+### История разработки Бота Антошки
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+26 мая, вечером, я вспомнил, что у меня очень давним временем был Бот, но к сожалению, паблик с Ботом, который пользовался большим спросом, был заблокирован за проведение сомнительных конкурсов. Политика ВКонтакте ограничивает создателей Ботов многих функций. Я решил вновь взяться за проект, и начать его пиарить различными способами. За 1 день можно было наблюдать очень неплохой результат.
 
-```markdown
-Syntax highlighted code block
+### Разработчики проекта и помощники/донатеры
 
-# Header 1
-## Header 2
-### Header 3
+vk.com/mister_beschuvstvennost (Дмитрий) - Разработчик
+vk.com/fdpoogjdopdgh (Лилия) - Помощь в продвижении проекта
+vk.com/denchik_2106 (Денис) - Разработчик конструктора Бота.
 
-- Bulleted
-- List
+### Связаться с нами
 
-1. Numbered
-2. List
+VKontakte: vk.com/mister_beschuvstvennost
+Telegram: odinokiy_kit1
+Mobile: -
+Skype: krivosheysuper
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/botantoshka/vk_antoshka/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
