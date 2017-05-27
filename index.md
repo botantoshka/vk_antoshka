@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на сайт Бота Антошки.
 
 You can use the [editor on GitHub](https://github.com/botantoshka/vk_antoshka/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
